@@ -1,5 +1,7 @@
+#water_melon_problem solved in Python3
+
 w=input()
-w=int(w)
+w=int(w)          
 
 if w%2 == 0 and w != 2:
 	print("YES")
